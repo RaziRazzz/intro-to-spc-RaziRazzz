@@ -133,3 +133,26 @@ The work done $W$ is positive when the system expands against an external pressu
 
 # Bibliography
 <div id="refs"></div>
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Distribution of Math Scores
+
+This histogram visualizes the frequency distribution of math scores among students in the dataset.
+
+- **X-axis**: Math Score
+- **Y-axis**: Frequency
+- **Binwidth**: 25
+
+::: {.fragment}
+The data shows a range of scores, with higher frequencies observed in the mid-range.
+:::
+
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/math_score_histogram.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
