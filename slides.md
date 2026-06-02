@@ -156,3 +156,68 @@ The data shows a range of scores, with higher frequencies observed in the mid-ra
 <iframe data-src='media/plots/math_score_histogram.html' width='100%' height='500px' style='border:none;'></iframe>
 :::
 ::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### X-bar Chart for PartLength
+
+This chart monitors the process mean of `PartLength` using subgroups of 5 observations. The center line (CL), upper control limit (UCL), and lower control limit (LCL) are shown.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/part_length_xbar_chart.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### R Chart for PartLength
+
+This chart monitors the process variation (range) of `PartLength` using subgroups of 5 observations. The center line (CL), upper control limit (UCL), and lower control limit (LCL) are shown.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/part_length_r_chart.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### R Chart for PartLength
+
+This chart monitors the process variation (range) of `PartLength` using subgroups of 5 observations. The center line (CL), upper control limit (UCL), and lower control limit (LCL) are shown.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/part_length_r_chart.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Distribution of Math Scores
+
+This histogram visualizes the frequency distribution of math scores among students in the dataset.
+
+- **X-axis**: Math Score
+- **Y-axis**: Frequency
+- **Binwidth**: 25
+
+::: {.fragment}
+The data shows a range of scores, with higher frequencies observed in the mid-range.
+:::
+
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/math_score_histogram.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
