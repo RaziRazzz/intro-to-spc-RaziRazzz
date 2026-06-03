@@ -221,3 +221,17 @@ The data shows a range of scores, with higher frequencies observed in the mid-ra
 <iframe data-src='media/plots/math_score_histogram.html' width='100%' height='500px' style='border:none;'></iframe>
 :::
 ::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### X-bar Chart for PartLength (Machine 1, 200kPa, 338K)
+
+This chart monitors the process mean of `PartLength` specifically for `Machine 1` operating at `200kPa` pressure and `338K` temperature, using subgroups of 5 observations. The center line (CL), upper control limit (UCL), and lower control limit (LCL) are shown.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/machine1_filtered_xbar_chart.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
