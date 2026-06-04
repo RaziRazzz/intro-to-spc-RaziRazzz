@@ -417,3 +417,51 @@ This chart visualizes the distribution of `PartLength` for `Machine 3` operating
 <iframe data-src='media/plots/machine3_capability_chart.html' width='100%' height='500px' style='border:none;'></iframe>
 :::
 ::::
+
+----
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability (Cpk) Chart: PartLength (Machine 1, 200kPa, 338K)
+
+This chart visualizes the distribution of `PartLength` for `Machine 1`. It includes the Lower Specification Limit (LSL), Upper Specification Limit (USL), and the calculated Cpk value, providing a measure of process capability.
+
+_Assumed Specification Limits: LSL=45, USL=55, Target=50 for illustrative purposes._
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/machine1_cpk_chart.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+----
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability (Cpk) Chart: PartLength (Machine 2, 200kPa, 338K)
+
+This chart visualizes the distribution of `PartLength` for `Machine 2`. It includes the Lower Specification Limit (LSL), Upper Specification Limit (USL), and the calculated Cpk value, providing a measure of process capability.
+
+_Assumed Specification Limits: LSL=45, USL=55, Target=50 for illustrative purposes._
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/machine2_cpk_chart.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+----
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability (Cpk) Chart: PartLength (Machine 3, 200kPa, 338K)
+
+This chart visualizes the distribution of `PartLength` for `Machine 3`. It includes the Lower Specification Limit (LSL), Upper Specification Limit (USL), and the calculated Cpk value, providing a measure of process capability.
+
+_Assumed Specification Limits: LSL=45, USL=55, Target=50 for illustrative purposes._
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/machine3_cpk_chart.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
