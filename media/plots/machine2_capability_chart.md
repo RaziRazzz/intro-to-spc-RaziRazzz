@@ -33,9 +33,9 @@ K)"),
     theme(
         plot.title = element_text(size = 20, face = "bold"),
         axis.title.x = element_text(size = 18),
-        axis.title.y = element_text(size = 18),
-        axis.text.x = element_text(size = 14),
-        axis.text.y = element_text(size = 14),
-        panel.background = element_rect(fill = "white", colour = "white"),
-        plot.background = element_rect(fill = "white", colour = "white")
-    )
+            axis.title.y = element_text(size = 18),
+            axis.text.x = element_text(size = 14),
+            axis.text.y = element_text(size = 14),
+            panel.background = element_rect(fill = "white", colour = "white"),
+            plot.background = element_rect(fill = "white", colour = "white")
+        )
