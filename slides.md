@@ -291,3 +291,87 @@ This chart monitors the process variation (range) of `PartLength` specifically f
 <iframe data-src='media/plots/machine3_filtered_r_chart.html' width='100%' height='500px' style='border:none;'></iframe>
 :::
 ::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### R Chart for PartLength (Machine 1, 200kPa, 338K)
+
+This chart monitors the process variation (range) of `PartLength` specifically for `Machine 1` operating at `200kPa` pressure and `338K` temperature, using subgroups of 5 observations. The center line (CL), upper control limit (UCL), and lower control limit (LCL) are shown.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/machine1_filtered_r_chart.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### R Chart for PartLength (Machine 2, 200kPa, 338K)
+
+This chart monitors the process variation (range) of `PartLength` specifically for `Machine 2` operating at `200kPa` pressure and `338K` temperature, using subgroups of 5 observations. The center line (CL), upper control limit (UCL), and lower control limit (LCL) are shown.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/machine2_filtered_r_chart.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### R Chart for PartLength (Machine 3, 200kPa, 338K)
+
+This chart monitors the process variation (range) of `PartLength` specifically for `Machine 3` operating at `200kPa` pressure and `338K` temperature, using subgroups of 5 observations. The center line (CL), upper control limit (UCL), and lower control limit (LCL) are shown.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/machine3_filtered_r_chart.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability Histogram: PartLength (Machine 1, 200kPa, 338K)
+
+This chart visualizes the distribution of `PartLength` for `Machine 1` operating at `200kPa` pressure and `338K` temperature. A normal distribution curve is overlaid to illustrate the process's inherent variability.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/machine1_capability_chart.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability Histogram: PartLength (Machine 2, 200kPa, 338K)
+
+This chart visualizes the distribution of `PartLength` for `Machine 2` operating at `200kPa` pressure and `338K` temperature. A normal distribution curve is overlaid to illustrate the process's inherent variability.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/machine2_capability_chart.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability Histogram: PartLength (Machine 3, 200kPa, 338K)
+
+This chart visualizes the distribution of `PartLength` for `Machine 3` operating at `200kPa` pressure and `338K` temperature. A normal distribution curve is overlaid to illustrate the process's inherent variability.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/machine3_capability_chart.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
